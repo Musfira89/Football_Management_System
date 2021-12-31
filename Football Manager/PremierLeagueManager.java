@@ -2,6 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+// import packages here
 package com.football;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -15,6 +16,7 @@ import java.util.Scanner;
  *
  * @author ahdabnasir
  */
+// Interface are used to achieve abstraction
 public class PremierLeagueManager implements LeagueManager {
     
     private final int numberOfClubs;
