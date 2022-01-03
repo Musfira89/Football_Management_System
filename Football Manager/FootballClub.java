@@ -5,10 +5,7 @@
 // import package
 package com.football;
 
-/**
- *
- * @author New
- */
+
 //Footballclub class inherit abstract class Sportsclub
 public class FootballClub extends SportsClub {
     
