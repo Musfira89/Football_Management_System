@@ -5,10 +5,8 @@
 //import package
 package com.football;
 
-/**
- *
- * @author New
- */
+
+ 
 // Abstract class
 public abstract class SportsClub {
     
