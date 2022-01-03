@@ -7,10 +7,6 @@ package com.football;
 
 import java.util.Comparator;
 
-/**
- *
- * @author ahdabnasir
- */
 // interfaces are  used to achieve abstraction.
 public class CustomComparator implements Comparator<FootballClub> {
     
