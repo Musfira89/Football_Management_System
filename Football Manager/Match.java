@@ -5,10 +5,7 @@
 //import required classes and package
 package com.football;
 import java.util.Date;
-/**
- *
- * @author New
- */
+
 public class Match {
      
      // private data members
